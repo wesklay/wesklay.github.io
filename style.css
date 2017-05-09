@@ -3,31 +3,38 @@ body
 	background-color: #607D8B;
 	margin: 0;
 	font-family: 'Roboto', sans-serif;
+	text-align: Justify;
+	color: white;
 }
 
 header
 {
 	background-color: #263238; 
 	text-align: center;
-	padding: 15px;
+	padding: 10px;
+	color: white;
 }
 	header .profile-picture
 	{
-		width:125px;
-		height: 125px;
+		width:200px;
+		height: 200px;
 		border-radius: 50%;
+		
 	}
 
 section .content
 {
 	background-color: #B0BEC5;
 	padding: 15px;
-	margin:25px;
-	border-radius: 20px;
-	text-align: justify;
+	margin:10px;
+	border-radius: 10px;
+	text-align: Justify;
+	font-size: 12px;
+	width: 400px;
 }
 section .title{
 	color: white;
+	text-align: Justify;
 }
 
 footer
